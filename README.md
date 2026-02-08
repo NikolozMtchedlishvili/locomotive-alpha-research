@@ -36,3 +36,16 @@ This project is a work in progress, and future improvements will focus on provid
 - Categorize news and assign different colors to markers for better visual analysis. (geopolitics / shocks, monetary policy, government data, corporate earnings, etc)
 - Include additional charts of different ETFs, commodities, and global indices.
 - Overlay central bank interest rates to analyze market reaction to monetary policy better.
+
+# Here are examples of the interactive chart:
+
+1.
+!(screenshots/newplot.png)
+
+2. Zoomed to Jan 2025 to Feb 2026 Period. Hovered over Aug 1, 2025 which shows one of the headlines from AP news.
+!(screenshots/Screenshot 2026-02-08 143053.png)
+
+3. 
+!(screenshots/Screenshot 2026-02-08 143636.png)
+
+
