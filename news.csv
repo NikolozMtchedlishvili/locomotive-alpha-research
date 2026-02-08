@@ -1,0 +1,78 @@
+date,headline,description,source,url
+2023-01-19,US Debt Limit Hit,"Treasury begins extraordinary measures as US hits $31.4T debt ceiling, sparking political standoff.",Reuters,https://reuters.com/business/us-debt-ceiling
+2023-02-01,Fed Hikes by 25bps,Fed slows pace to 25bps hike; Powell signals 'disinflationary process' has started.,CNBC,https://cnbc.com/fed-rate-hike-feb-2023
+2023-02-03,Blowout Jobs Report,"US adds 517k jobs, crushing estimates and raising fears of sticky inflation.",Bloomberg,https://bloomberg.com/news/jobs-report-feb-2023
+2023-02-14,CPI Prints Hot,"January CPI rises 6.4%, signaling inflation is stickier than Fed hoped.",WSJ,https://wsj.com/economy/cpi-inflation-january-2023
+2023-03-08,Silvergate Bank Liquidates,"Crypto-focused bank announces voluntary liquidation, first domino of the banking crisis.",Coindesk,https://coindesk.com/silvergate-liquidation
+2023-03-10,Silicon Valley Bank Collapses,FDIC seizes SVB after massive bank run; 2nd largest bank failure in US history.,Reuters,https://reuters.com/svb-collapse
+2023-03-12,Signature Bank Fails,Regulators close Signature Bank; Fed announces BTFP liquidity facility to stem contagion.,Bloomberg,https://bloomberg.com/signature-bank-failure
+2023-03-15,Credit Suisse Panic,Credit Suisse shares plunge 24% as top shareholder rules out more funding.,FT,https://ft.com/credit-suisse-crisis
+2023-03-19,UBS Buys Credit Suisse,UBS acquires Credit Suisse for $3.2B in emergency rescue brokered by Swiss govt.,WSJ,https://wsj.com/ubs-credit-suisse-deal
+2023-03-22,Fed Hikes Despite Crisis,"Fed raises rates 25bps to 4.75-5.00% despite banking turmoil, prioritizing inflation fight.",CNBC,https://cnbc.com/fed-march-2023
+2023-04-14,Retail Sales Drop,"US retail sales fall 1.0% in March, signaling consumer fatigue.",MarketWatch,https://marketwatch.com/retail-sales-march
+2023-05-01,First Republic Seized,JPMorgan acquires First Republic Bank after FDIC seizure; 3rd major failure of 2023.,Reuters,https://reuters.com/first-republic-jpmorgan
+2023-05-03,Fed Hikes to 16-Year High,"Fed raises rates to 5.00-5.25%, hints at potential pause in hiking cycle.",Bloomberg,https://bloomberg.com/fed-may-decision
+2023-05-24,Nvidia AI Guidance Shock,"Nvidia forecasts massive revenue jump due to AI chip demand, sparking global AI rally.",CNBC,https://cnbc.com/nvidia-earnings-shock
+2023-06-03,Debt Ceiling Bill Signed,"Biden signs bill suspending debt ceiling until 2025, averting default.",AP News,https://apnews.com/debt-ceiling-signed
+2023-06-14,Fed Pauses Hikes,Fed holds rates steady after 10 consecutive hikes but forecasts 2 more in 2023.,WSJ,https://wsj.com/fed-june-pause
+2023-07-26,Fed Hikes to 5.50%,"Fed resumes tightening, pushing rates to highest level since 2001.",Reuters,https://reuters.com/fed-july-hike
+2023-08-01,Fitch Downgrades US,"Fitch cuts US credit rating from AAA to AA+, citing fiscal deterioration.",Bloomberg,https://bloomberg.com/fitch-downgrade-us
+2023-08-25,Powell Jackson Hole,"Powell warns inflation still 'too high,' prepared to raise rates further if needed.",CNBC,https://cnbc.com/powell-jackson-hole
+2023-09-13,CPI Accelerates,"August CPI rises to 3.7% driven by oil prices, complicating Fed outlook.",WSJ,https://wsj.com/cpi-august-2023
+2023-09-20,Fed Holds 'Hawkishly',Fed holds rates but dot plot shows 'higher for longer' stance into 2024.,FT,https://ft.com/fed-september-meeting
+2023-10-07,Israel-Hamas War Begins,Hamas attacks Israel; oil prices spike as conflict raises geopolitical risks.,Reuters,https://reuters.com/israel-hamas-war
+2023-10-19,10Y Yield Hits 5%,US 10-Year Treasury yield touches 5.0% for first time since 2007.,Bloomberg,https://bloomberg.com/treasury-yield-5-percent
+2023-11-01,Fed Holds Steady,Fed leaves rates unchanged; markets interpret tone as end of hiking cycle.,CNBC,https://cnbc.com/fed-nov-decision
+2023-11-14,CPI Cools to 3.2%,"Inflation slows more than expected, fueling bets on 2024 rate cuts.",WSJ,https://wsj.com/cpi-october-2023
+2023-12-13,The Fed Pivot,Powell signals rate hikes are likely over; projects 3 cuts in 2024. Dow hits record.,Bloomberg,https://bloomberg.com/fed-pivot-dec-2023
+2024-01-04,Jobs Data Strong,"ADP report shows labor market resilience, tempering early rate cut bets.",CNBC,https://cnbc.com/adp-jobs-jan-2024
+2024-01-11,US Strikes Houthis,US/UK launch airstrikes in Yemen to protect Red Sea shipping; oil jumps.,Reuters,https://reuters.com/red-sea-strikes
+2024-01-31,Fed Pushes Back,"Powell says March rate cut is 'unlikely,' resetting market expectations.",WSJ,https://wsj.com/fed-jan-2024
+2024-02-13,CPI Hotter than Expected,"Jan CPI rises 3.1%, disappointing markets hoping for faster disinflation.",Bloomberg,https://bloomberg.com/cpi-jan-2024
+2024-03-20,Fed Dots Confirm Cuts,Fed maintains projection for 3 cuts in 2024 despite sticky inflation data.,FT,https://ft.com/fed-march-dots
+2024-04-10,CPI Spooks Markets,"March CPI accelerates to 3.5%, causing markets to price out June cut.",CNBC,https://cnbc.com/cpi-march-2024
+2024-04-13,Iran Attacks Israel,Iran launches drone/missile attack on Israel; fears of regional war escalate.,AP News,https://apnews.com/iran-israel-attack
+2024-05-01,Fed Tapers QT,Fed slows pace of balance sheet runoff (QT) to support liquidity.,Reuters,https://reuters.com/fed-qt-taper
+2024-06-07,Jobs Blowout,"Non-farm payrolls surge 272k, wages rise; yields jump as cuts delayed.",Bloomberg,https://bloomberg.com/jobs-report-june-2024
+2024-06-12,Fed Dots Hawkish,Fed updates projections to show only 1 rate cut in 2024.,WSJ,https://wsj.com/fed-june-dots
+2024-07-11,CPI Finally Cools,"June CPI falls 0.1% m/m, first negative print in years; cut bets return.",CNBC,https://cnbc.com/cpi-june-2024
+2024-07-31,BoJ Hikes Rates,"Bank of Japan raises rates to 0.25%, surprising markets and boosting Yen.",Nikkei,https://asia.nikkei.com/boj-hike-july
+2024-08-02,US Jobs Miss,"Unemployment rises to 4.3%, triggering 'Sahm Rule' recession indicator.",Bloomberg,https://bloomberg.com/jobs-miss-august
+2024-08-05,Yen Carry Trade Crash,Global markets plunge (Nikkei -12%) as Yen surge unwinds massive leverage.,FT,https://ft.com/yen-carry-crash
+2024-08-23,Powell: Time Has Come,Powell at Jackson Hole confirms 'time has come' for policy adjustment.,Reuters,https://reuters.com/powell-jackson-hole-2024
+2024-09-18,Fed Cuts 50bps,Fed starts easing cycle with aggressive 50bps cut to 4.75-5.00%.,CNBC,https://cnbc.com/fed-sept-cut
+2024-10-04,Jobs Surprise Upside,"Sept payrolls add 254k, alleviating recession fears.",WSJ,https://wsj.com/jobs-sept-2024
+2024-11-05,US Election Day,Americans vote in tight presidential race; markets volatile overnight.,AP News,https://apnews.com/election-2024
+2024-11-06,Trump Wins Election,"Trump declared winner; 'Trump Trade' (Stocks up, Bonds down) ignites.",Bloomberg,https://bloomberg.com/trump-wins
+2024-11-07,Fed Cuts 25bps,Fed lowers rates to 4.50-4.75% amidst post-election market repricing.,Reuters,https://reuters.com/fed-nov-cut
+2024-12-10,CPI Sticky at 2.6%,"Inflation remains above target, limiting Fed's room to ease aggressively.",CNBC,https://cnbc.com/cpi-dec-2024
+2024-12-18,Fed Cuts 25bps,"Fed delivers 3rd cut of year to 4.25-4.50%, signaling 'soft landing' focus.",WSJ,https://wsj.com/fed-dec-cut
+2025-01-05,Yields Spike on Deficit,10Y Treasury hits 4.8% as bond vigilantes eye rising deficits under new admin.,FT,https://ft.com/yields-spike-jan-2025
+2025-01-20,Trump Inauguration,President Trump sworn in; signs orders on deregulation and energy production.,AP News,https://apnews.com/inauguration-2025
+2025-01-27,The DeepSeek Shock,Nasdaq plunges 3% as Chinese AI model 'DeepSeek' undermines US chip dominance.,Bloomberg,https://bloomberg.com/deepseek-shock
+2025-02-01,Nvidia Drops 17%,AI bellwether Nvidia crashes on fears of margin compression from cheap AI models.,CNBC,https://cnbc.com/nvidia-crash-feb
+2025-02-14,CPI Heats Up,"January CPI rises to 2.9% on energy costs, putting Fed on pause alert.",WSJ,https://wsj.com/cpi-feb-2025
+2025-03-05,Fed Holds Rates,Fed pauses cuts at 4.25-4.50% citing 'stalled disinflation'.,Reuters,https://reuters.com/fed-pause-march
+2025-04-02,Liberation Day Tariffs,Trump announces 10% universal tariff and 50% on select nations; markets dive.,Bloomberg,https://bloomberg.com/tariffs-april-2025
+2025-04-03,Global Trade Shock,S&P 500 falls 4% as partners threaten retaliation; shipping stocks surge.,FT,https://ft.com/trade-shock-april
+2025-05-01,GDP Slows,Q1 GDP growth slows to 1.1% as business investment pauses on trade fear.,CNBC,https://cnbc.com/gdp-q1-2025
+2025-05-15,Retail Sales Slump,Consumer spending contracts 0.5% as import prices rise.,WSJ,https://wsj.com/retail-sales-may
+2025-06-11,Fed Holds Again,Fed keeps rates steady; dot plot shows disagreement on next move.,Bloomberg,https://bloomberg.com/fed-june-hold
+2025-07-05,Oil Hits $90,Crude oil rallies on Middle East tensions and new sanctions enforcement.,Reuters,https://reuters.com/oil-rally-july
+2025-08-01,Unemployment Hits 4.5%,Labor market cracks under tariff pressure; hiring freezes widespread.,AP News,https://apnews.com/jobs-august-2025
+2025-08-15,MIT AI Report,Report questioning AI ROI causes second tech selloff; 'AI Winter' fears grow.,TechCrunch,https://techcrunch.com/mit-ai-report
+2025-09-05,Payroll Shock,US loses 20k jobs in August; recession narrative takes hold.,CNBC,https://cnbc.com/payroll-loss-sept
+2025-09-17,Fed Panic Cut,Fed cuts rates by 50bps to 3.75-4.00% to save labor market.,WSJ,https://wsj.com/fed-sept-cut-2025
+2025-10-10,CPI Falls to 2.1%,Demand destruction drives inflation down near target.,Bloomberg,https://bloomberg.com/cpi-oct-2025
+2025-10-29,Fed Cuts 25bps,Fed lowers rates to 3.50-3.75%; promises 'whatever it takes' for growth.,Reuters,https://reuters.com/fed-oct-cut
+2025-11-12,Burry Shorts AI,Filings reveal Michael Burry has massive short on AI software; tech lags.,MarketWatch,https://marketwatch.com/burry-short-nov
+2025-11-20,Govt Shutdown Looms,Budget talks stall over tariff revenue projections; volatility spikes.,Politico,https://politico.com/shutdown-looms
+2025-12-05,Jobs Stabilize,November payrolls flat (0k); markets relieved it wasn't worse.,CNBC,https://cnbc.com/jobs-dec-2025
+2025-12-10,Fed Cuts 25bps,"Fed cuts to 3.25-3.50%, marking 100bps of easing in 4 months.",WSJ,https://wsj.com/fed-dec-cut-2025
+2025-12-20,Santa Rally Returns,Stocks rally into year-end on hopes of trade deal and easier money.,Bloomberg,https://bloomberg.com/santa-rally-2025
+2026-01-08,Trade Talks Open,US and China agree to preliminary talks to reduce tariffs; markets surge.,Reuters,https://reuters.com/trade-talks-jan-2026
+2026-01-15,Earnings Beat,"Major banks report solid earnings, suggesting economy is bending not breaking.",CNBC,https://cnbc.com/bank-earnings-jan-2026
+2026-01-28,Fed Pauses Cuts,Fed holds at 3.25-3.50% to assess impact of rapid easing.,WSJ,https://wsj.com/fed-jan-2026
+2026-02-02,Jobs Rebound,"January payrolls add 110k, signaling potential soft landing achieved.",Bloomberg,https://bloomberg.com/jobs-feb-2026
+2026-02-05,Tech Recovery,Nasdaq recovers 50% of 'DeepSeek' losses as US firms adapt to new models.,TechCrunch,https://techcrunch.com/tech-recovery-feb
+2026-02-08,Current Day,Markets await tomorrow's CPI print; VIX stable at 18.,Simulation,https://simulation.com/today
