@@ -22,11 +22,11 @@ The news.csv included is just a sample demonstration. You can replace it with yo
 
 # Personal Context
 
-I run a micro hedge fund to manage my personal and family's savings. When I started investing a year ago, I was not fully aware of what drives market movements. 
+I run a micro hedge fund to manage my personal and family's savings. When I started investing a year ago, I was not fully aware of what drove market movements. 
 
 By building this model I have developed stronger understanding of how global markets move and how do different events like geopolitical tensions or sentiment affects stock prices.
 
-Using this model, my fund achieved a time-weighted return of over 55% in 2025, compared to an S&P 500 (VOO ETF) TWR of 17.82%.
+Using this model, my fund has significantly outperformed S&P500 in the year 2025.
 
 This project is a work in progress, and future improvements will focus on providing better decision-making tools to maximize returns and outperform benchmark indices.
 
