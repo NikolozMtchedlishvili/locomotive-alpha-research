@@ -1,5 +1,9 @@
 # Locomotive-Alpha Research
 
+📄 [2025 Annual Report (PDF)] [Locomotive-Alpha Partners – 2025 Annual Report.pdf](https://github.com/user-attachments/files/25346707/Locomotive-Alpha.Partners.2025.Annual.Report.pdf)
+
+
+
 This project is a Python-based market analysis tool that combines financial data, news events, and macroeconomic indicators to visualize how markets react to news and economic updates.
 
 The goal: to better understand the drivers of market movements, including sentiment, monetary policy, geopolitical events, and corporate earnings.
@@ -57,14 +61,15 @@ The investment framework combines:
 
 ---
 
-## 2025 Annual Report
+## 📄 2025 Annual Report
 
-The full 2025 Annual Report is available in this repository.
+Official publication available under Releases:
+https://github.com/NikolozMtchedlishvili/locomotive-alpha-research/releases
 
 It includes:
 - Performance breakdown  
-- Attribution analysis  
-- Risk framework  
+- Analysis  
+- Risk Metrics  
 - Strategic outlook for 2026  
 
 ---
