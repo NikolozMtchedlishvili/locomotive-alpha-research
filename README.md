@@ -1,4 +1,4 @@
-# Locomotive-Alpha Research
+# Equity Research Tool for Locomotive-Alpha Partners
 
 📄 [2025 Annual Report (PDF)] [Locomotive-Alpha Partners – 2025 Annual Report.pdf](https://github.com/user-attachments/files/25346707/Locomotive-Alpha.Partners.2025.Annual.Report.pdf)
 
